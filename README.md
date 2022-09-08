@@ -16,6 +16,12 @@ Implement a scoring model and a dashboard
 
 # Competencies
 - Dashboard creation and visualisation on the cloud 
-- Flask
-- Streamlit
-- LightGBM
+- Feature Engineering : Onehot, Business ratios
+- Data Balancing : RandomUnderSampling, SMOTE, class_weight 
+- Feature Scaling : StandardScaler, RobustScaler, MinMaxScaler
+- Algotithms : Logistics Regression, KNN, LightGBM
+- Evaluation : Confusion Matrix, Accuracy, Recall, Precision , F1 score, AUC score, execution time
+- Gain function : 
+- Interpretability : SHAP library
+- Front-end environment : Streamlit 
+- Back-end environment : Flask + AWS 

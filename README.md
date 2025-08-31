@@ -1,6 +1,6 @@
 # F1-Scoring-Model-Dashboard
 
-# [Link Project Overview] (https://github.com/Najtrg18/F1-Scoring-Model-Dashboard/blob/main/F1_presentation.pdf)
+# <a href="[https://github.com/Najtrg18/F1-Scoring-Model-Dashboard/blob/main/F1_presentation.pdf]" target="_blank">Project Overview</a>
 
 # Data 
 Sourced from: https://www.kaggle.com/c/home-credit-default-risk/data
